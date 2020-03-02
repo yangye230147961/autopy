@@ -1,6 +1,6 @@
 ## AutoPy
 ### 简介
-> ``AutoPy``是为python开发者提供的一个安卓插件,由[路飞大佬](mqqapi://card/show_pslcard?src_type=internal&version=1&card_type=group&uin=)开发维护,主要功能为了实现使用python在安卓端完成一些操作,例如点击,滑动,返回
+> ``AutoPy``是为python开发者提供的一个安卓插件,由[路飞大佬](‘mqqapi://card/show_pslcard?src_type=internal&version=1&card_type=group&uin=’)开发维护,主要功能为了实现使用python在安卓端完成一些操作,例如点击,滑动,返回
 ### 准备
 > 安装`AutoPy.apk`,点击`安装模块`,开启`无障碍权限`,开启`开发者选项`中`显示指针位置`
 ### 测试
